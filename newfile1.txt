@@ -1,1 +1,3 @@
 ECHO is on.
+
+this is second commit in Git_test_02 branch
