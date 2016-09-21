@@ -1,3 +1,8 @@
 my first file is created.
 ghgh
+<<<<<<< HEAD
 pqrsdgfhghfgdhgfh
+=======
+pqrsdgfhghfgdhg
+ adding some comment in after installing eclipse.
+>>>>>>> refs/heads/master
